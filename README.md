@@ -1,0 +1,2 @@
+# writer-manager
+Manage writers
